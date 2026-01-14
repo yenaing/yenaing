@@ -1,6 +1,6 @@
 <h1 align="center">Ye Naing</h1>
 <h3 align="center">
-Senior Software Engineer • AI Systems • Enterprise Architecture • Full-Stack
+Senior Software Engineer | Architect • AI Systems • Enterprise Architecture • Full-Stack
 </h3>
 
 <p align="center">
